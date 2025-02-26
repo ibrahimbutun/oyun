@@ -1,4 +1,6 @@
 hareket(){
     a=x;
+
+    c=z;
     b=y;
 }
